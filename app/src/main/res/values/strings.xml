@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SlangDictionary</string>
+    <string name="title_list_detail">List Details</string>
+    <string name="title_item_detail">Item Details</string>
+    <string name="set_your_details">Set Your Details :)</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="button">"Add More!"</string>
 </resources>
